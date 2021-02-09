@@ -1,2 +1,4 @@
 /package.json
 .DS_Store
+css-build/node-modules/
+yarn.lock/
